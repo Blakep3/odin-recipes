@@ -1,1 +1,1 @@
-# odin-recipes
+trying to make a recipe website. Hoping to demostrate ability to update git and to have a nice website layout
